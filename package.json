@@ -1,5 +1,5 @@
 {
-  "name": "cz-jira-smart-commit",
+  "name": "cz-hilton-jira-commit",
   "version": "2.0.1",
   "description": "A commitizen adapter for Jira smart commits",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/commitizen/cz-jira-smart-commit.git"
+    "url": "git+https://github.com/kuno/cz-hilton-jira-commit.git"
   },
   "keywords": [
     "commitizen",
@@ -26,9 +26,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/commitizen/cz-jira-smart-commit/issues"
+    "url": "https://github.com/kuno/cz-hilton-jira-commit/issues"
   },
-  "homepage": "https://github.com/commitizen/cz-jira-smart-commit#readme",
+  "homepage": "https://github.com/kuno/cz-hilton-jira-commit#readme",
   "devDependencies": {
     "babel": "5.8.21",
     "chai": "3.2.0",
